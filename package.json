@@ -1,0 +1,21 @@
+{
+  "name": "atm_machine_npm_package2024",
+  "version": "1.0.0",
+  "description": "This is an atm machine based software, each action is defined at each user's choice.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HUMA MOHSIN",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
